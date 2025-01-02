@@ -1,0 +1,23 @@
+# To-Do List Website
+
+A simple and interactive to-do list website built using HTML, CSS, and JavaScript. The website allows users to add, edit, and delete tasks, as well as mark tasks as completed.
+
+## Features
+
+- Add new tasks to the list.
+- Mark tasks as completed.
+- Edit existing tasks.
+- Delete tasks from the list.
+.
+
+## Technologies Used
+
+- **HTML** for the structure of the webpage.
+- **CSS** for styling the website.
+- **JavaScript** for adding interactive functionality (adding, editing, deleting, and marking tasks).- **localStorage** for saving tasks locally in the browser.
+
+## Installation
+
+1. Clone this repository to your local machine using:
+   ```bash
+   git clone https://github.com/yourusername/todolist-website.git
